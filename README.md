@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Tayelolu08
-- 👀 I’m interested in Data Analytics/ Data Science 
-- 🌱 I’m currently learning Excel
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me WhatsApp (09053686767)
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently skilled Excel,sql,power BI and Python
+- 💞️ I’m looking to collaborate on everything Data
+- 📫 How to reach me WhatsApp (09053686767), Call (07026122643)
 - 😄 Pronouns: ... She/her
 - ⚡ Fun fact: ... I am Enthusiastic 
 
